@@ -106,3 +106,6 @@ label{
   main {
   font-family: "Roboto", sans-serif;
 }
+section {
+  scroll-margin-top: 55px; /* same or slightly more than your navbar height */
+}
